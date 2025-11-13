@@ -1,0 +1,5 @@
+{
+  "maxUrls": 100,
+  "excludeExtensions": ["jpg", "jpeg", "png", "gif"],
+  "urlPatterns": ["/product", "/blog", "/news"]
+}
